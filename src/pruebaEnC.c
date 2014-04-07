@@ -13,5 +13,9 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("Los integrantes del grupo son:");
+	puts("Esteban");
+	puts("Caro");
+	puts("Juan");
 	return EXIT_SUCCESS;
 }
