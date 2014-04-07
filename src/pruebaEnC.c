@@ -17,7 +17,7 @@ int main(void) {
 	puts("Esteban");
 	puts("Caro");
 	puts("Juan");
-	puts("Juan");
+	puts("Oscar");
 
 	return EXIT_SUCCESS;
 }
